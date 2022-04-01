@@ -1,4 +1,4 @@
-# Estudo e exercícios
+# Estudos e exercícios
 
 Estudos e exercícios sobre estrutura de dados.
 
